@@ -2,7 +2,7 @@
 
 Welcome to the **Danger Bulb** – a high-risk, high-reward interactive experience that will test your courage and curiosity. This is not just a bulb; it's a gateway to chaos, a button to the unknown, and a click away from destruction. **Proceed with caution!**
 
----
+--
 
 ## 🚨 What is Danger Bulb?
 
@@ -13,7 +13,7 @@ The **Danger Bulb** is a visually stunning and audibly immersive web-based simul
 - Feel the **rumble** of the sound effects and the **shake** of the screen.
 - **Deactivate** it before it’s too late... or don’t. 😈
 
----
+--
 
 ## 🎬 How to Use
 
@@ -34,7 +34,7 @@ The **Danger Bulb** is a visually stunning and audibly immersive web-based simul
 - Click again to deactivate... or let it run wild.  
 - **Do it at your own risk.**  
 
----
+--
 
 ## 🛠️ Features
 
@@ -50,7 +50,7 @@ The **Danger Bulb** is a visually stunning and audibly immersive web-based simul
   - System status, power level, and risk assessment updates.
 - **Warning Messages**: Cautionary alerts to keep you on edge.
 
----
+--
 
 ## 🧑‍💻 How It Works
 
@@ -61,19 +61,19 @@ The Danger Bulb is built using:
 
 The bulb uses CSS animations and JavaScript event listeners to toggle between active and inactive states. The sound effects are generated dynamically using the Web Audio API, creating a unique experience every time.
 
----
+--
 
 ## Danger-Bulb Demo
 
-<img width="1512" alt="Screenshot 2025-02-20 at 3 00 48 AM" src="https://github.com/user-attachments/assets/90bdb961-6687-4b7f-92d2-4e5eec834e8e" />
+<img width="1512" alt="Screenshot 2025-02-20 at 3 00 48 AM" src="https://github.com/user-attachments/assets/83ae74bc-2806-4fb9-b091-f51a4e523f16" />
 
----
+--
 
 ## ⚠️ Warning
 
 This project is designed to simulate danger and chaos. While it’s completely safe to use, the intense visuals and sound effects may not be suitable for everyone. **Use at your own risk.**  
 
----
+--
 
 ## 🚀 Installation
 
@@ -92,34 +92,34 @@ Want to run this locally? Follow these steps:
    open index.html
    ```
 
----
+--
 
 ## 📜 License
 
-This project is licensed under the MIT License. Feel free to use, modify, and share it. Just don’t blame me if you accidentally unleash chaos. 😉
+This project is licensed under the Scaler License. Feel free to use, modify, and share it. Just don’t blame me if you accidentally unleash chaos. 😉
 
----
+--
 
 ## 🙌 Credits
 
-- **Created by**: [techSaswata](https://github.com/techSaswata)  
+- **Made with ❤️ by**: [techSaswata](https://github.com/techSaswata)  
 - **Inspired by**: The thrill of danger and the beauty of chaos.  
 - **Sound Effects**: Web Audio API.  
 
----
+--
 
 ## 💬 Feedback
 
 Loved it? Hated it? Scared the living daylights out of you? Let me know!  
 👉 [Open an issue](https://github.com/techSaswata/Danger-Bulb/issues) or reach out to me directly.
 
----
+--
 
 ## 🌟 Star the Repo
 
 If you enjoyed this project, don’t forget to ⭐ **star the repository**! It’s the best way to show your support and keep the danger alive.
 
----
+--
 
 **Remember:**  
 *With great power comes great responsibility... and a whole lot of fun. Click wisely.* 😉
