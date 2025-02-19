@@ -87,9 +87,9 @@ Want to run this locally? Follow these steps:
    ```bash
    cd Danger-Bulb
    ```
-3. Open `bulb.html` in your browser:
+3. Open `index.html` in your browser:
    ```bash
-   open bulb.html
+   open index.html
    ```
 
 ---
